@@ -23,7 +23,7 @@
 
 ## 附加檔案
 
-    verilog格式的 Tetris.v 檔
+    verilog 格式的 Tetris.v 檔
 
     文字格式的 Tetris.txt 檔
 
