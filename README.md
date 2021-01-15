@@ -1,4 +1,4 @@
-# 俄羅斯方塊
+# 俄羅斯方塊 (Tetris)
 ## 基本說明
 
 邏輯設計與實驗課 final project
@@ -23,9 +23,9 @@
 
 ## 附加檔案
 
-    verilog格式的 Teris.v 檔
+    verilog格式的 Tetris.v 檔
 
-    文字格式的 Teris.txt 檔
+    文字格式的 Tetris.txt 檔
 
 ## 詳細說明
 
