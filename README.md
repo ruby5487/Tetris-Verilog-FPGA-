@@ -1,10 +1,10 @@
->>俄羅斯方塊
+>俄羅斯方塊
 
-##基本說明
+>>基本說明
 
--邏輯設計與實驗課 final project
+邏輯設計與實驗課 final project
 
--用FPGA展示Verilog成果
+用FPGA展示Verilog成果
 
 ##主要功能
 
